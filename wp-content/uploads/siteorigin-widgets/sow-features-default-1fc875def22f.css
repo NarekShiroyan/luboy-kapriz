@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Arizonia);
+@import url(http://fonts.googleapis.com/css?family=Dosis);
+.so-widget-sow-features-default-1fc875def22f .sow-features-list .sow-features-feature .textwidget > h5 {
+  font-family: Arizonia;
+  font-weight: 400;
+  font-size: 22px;
+  
+}
+.so-widget-sow-features-default-1fc875def22f .sow-features-list .sow-features-feature .textwidget > p {
+  font-family: Dosis;
+  font-weight: 400;
+  
+  
+}
+.so-widget-sow-features-default-1fc875def22f .sow-features-list .sow-features-feature .textwidget > p.sow-more-text {
+  font-family: Dosis;
+  font-weight: 400;
+  
+  
+}
